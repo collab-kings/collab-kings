@@ -12,7 +12,7 @@
 
 <!-- Glitch Effect Subtitle -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=1500&pause=300&color=FF6B6B&center=true&vCenter=true&width=900&height=80&lines=Full+Stack+Developer+%7C+AI+Enthusiast;Building+Tomorrow's+Web+Today;Code+%2B+Creativity+%3D+Innovation" alt="Subtitle Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=2500&pause=300&color=FF6B6B&center=true&vCenter=true&width=900&height=80&lines=Full+Stack+Developer+%7C+AI+Enthusiast;Building+Tomorrow's+Web+Today;Code+%2B+Creativity+%3D+Innovation" alt="Subtitle Animation" />
 </div>
 
 <!-- Matrix-style Background Animation -->
