@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <p> "Hi, I am </p>
 
 <!-- Innovative Animated Name Section -->
 <div align="center">
