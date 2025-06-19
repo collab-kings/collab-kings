@@ -6,7 +6,7 @@
 <!-- Innovative Animated Name Section -->
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=80&duration=2000&pause=500&color=00D9FF&background=0D111700&center=true&vCenter=true&width=1000&height=120&lines=ALEX+DEVELOPER;INNOVATION+ARCHITECT;CODE+VISIONARY;TECH+PIONEER" alt="Animated Name" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=900&size=80&duration=2000&pause=500&color=00D9FF&background=0D111700&center=true&vCenter=true&width=1000&height=120&lines=SHASHWAT+DWIVEDI;SHASHWAT+DWIVEDI;" alt="Animated Name" />
   </h1>
 </div>
 
