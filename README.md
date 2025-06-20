@@ -29,12 +29,12 @@
 
 **💫 Developer Profile**
 
-🏢 **Role:** Full Stack Developer  
-📍 **Location:** Your City, Country  
-⚡ **Experience:** 5+ years  
-🎯 **Passion:** Creating innovative solutions  
-🔭 **Current Focus:** AI & Web3 Technologies  
-💭 **Philosophy:** Code with purpose, design with passion
+🏢 **Role:** Master's Student  
+📍 **Location:** Uttar Pradesh, India 
+⚡ **Experience:** Loading...  
+🎯 **Passion:** Coding and Mathematics
+🔭 **Current Focus:** Researching topics based on Artificial Intelligence Machine Learning  
+💭 **Guiding Principle:** When the going gets tough, the tough gets going.
 
 </td>
 <td width="50%" valign="top">
