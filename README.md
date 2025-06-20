@@ -29,7 +29,7 @@
 
 **💫 Developer Profile**
 
-<p> <b> <u> 🏢 Role:</u> </b> Master's Student </p>  
+<p> <b> 🏢 Role: </b> Master's Student </p>  
 <p> <b> 📍 Location: </b> Uttar Pradesh, India </p>
 <p> <b> ⚡ Experience: </b> Loading...  </p>
 <p> <b> 🎯 Passion: </b> Coding and Mathematics </p>
