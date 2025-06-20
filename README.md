@@ -33,7 +33,7 @@
 <p> <b> 📍 Location: </b> Uttar Pradesh, India </p>
 <p> <b> ⚡ Experience: </b> Loading...  </p>
 <p> <b> 🎯 Passion: </b> Coding and Mathematics </p>
-<p> <b> 🔭 Current Focus: </b> Researching topics based on Artificial Intelligence Machine Learning </p>
+<p> <b> 🔭 Current Focus: </b> Researching on topics related to Artificial Intelligence Machine Learning. </p>
 <p> <b> 💭 Guiding Principle: </b>When the going gets tough, the tough gets going. </p>
 
 </td>
