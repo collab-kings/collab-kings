@@ -30,11 +30,11 @@
 **💫 Developer Profile**
 
 <p> <b> 🏢 Role: </b> Master's Student </p>  
-<p> 📍 **Location:** Uttar Pradesh, India </p>
-<p> ⚡ **Experience:** Loading...  </p>
-<p> 🎯 **Passion:** Coding and Mathematics </p>
-<p> 🔭 **Current Focus:** Researching topics based on Artificial Intelligence Machine Learning </p>
-<p> 💭 **Guiding Principle:** When the going gets tough, the tough gets going. </p>
+<p> <b> 📍 Location: </b> Uttar Pradesh, India </p>
+<p> <b> ⚡ Experience: </b> Loading...  </p>
+<p> <b> 🎯 Passion: </b> Coding and Mathematics </p>
+<p> <b> 🔭 Current Focus: </b> Researching topics based on Artificial Intelligence Machine Learning </p>
+<p> <b> 💭 Guiding Principle: </b>When the going gets tough, the tough gets going. </p>
 
 </td>
 <td width="50%" valign="top">
